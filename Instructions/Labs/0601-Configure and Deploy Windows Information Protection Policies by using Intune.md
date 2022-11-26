@@ -106,7 +106,7 @@ To following lab(s) must be completed before this lab:
 
 1. On the taskbar, select **Microsoft Edge**.
 
-2. Open **Microsoft Edge**, and navigate to `https://yourtenant.sharepoint.com`.
+2. Open **Microsoft Edge**, and navigate to `https://<yourtenant>.sharepoint.com`.
 
    > Take note of the briefcase icon at the right side of the address bar. Select the icon and verify that this website is managed by the tenant. It may take a while for the briefcase icon to appear. If it does not appear after 5 minutes, skip to Task 6 to complete the alternate task to test WIP.
 
